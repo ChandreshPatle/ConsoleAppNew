@@ -34,7 +34,6 @@ namespace ConsoleAppNew.Day4
         {
             return this._ProductId;
         }
-
         static void Main(string[] args)
         {
             Product p1 = new Product();
