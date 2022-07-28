@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Day4\Day4Main.cs" />
+    <Compile Include="Day4\Employee.cs" />
+    <Compile Include="Day4\OverloadTest.cs" />
+    <Compile Include="Day4\Point.cs" />
+    <Compile Include="Day4\Product.cs" />
+    <Compile Include="Day4\StaticClassDemo.cs" />
     <Compile Include="MainApp.cs" />
     <Compile Include="MethodCalling.cs" />
     <Compile Include="Program.cs" />
