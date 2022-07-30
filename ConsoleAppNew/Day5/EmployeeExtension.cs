@@ -12,5 +12,10 @@ namespace ConsoleAppNew.Day5
         {
             Console.WriteLine($"Employee:{employee.EmpCode},{employee.FullName}");
         }
+        public static string ConvertToUpperCase(this String strRef,string data)
+        {
+            return data.ToUpper();
+        }
+
     }
 }

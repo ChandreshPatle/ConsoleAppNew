@@ -54,6 +54,10 @@
     <Compile Include="Day5\EmployeeExtension.cs" />
     <Compile Include="Day5\Product.cs" />
     <Compile Include="Day5\Student.cs" />
+    <Compile Include="Day6\ArrayDemo.cs" />
+    <Compile Include="Day6\ArrayDemo2.cs" />
+    <Compile Include="Day6\ArrayDemo3.cs" />
+    <Compile Include="Day6\JaggedArray.cs" />
     <Compile Include="MainApp.cs" />
     <Compile Include="MethodCalling.cs" />
     <Compile Include="Program.cs" />

@@ -1,25 +1,25 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
-namespace ConsoleAppNew.Day4
-{
-    internal static class StaticClassDemo
-    {
-        //int x;//not allowed
-        static int y;
-        /*
-        public StaticClassDemo()
-        {
+//namespace ConsoleAppNew.Day4
+//{
+//    internal static class StaticClassDemo
+//    {
+//        //int x;//not allowed
+//        static int y;
+//        /*
+//        public StaticClassDemo()
+//        {
 
-        }*/ //normal constr not allowed
-        static StaticClassDemo()
-        {
+//        }*/ //normal constr not allowed
+//        static StaticClassDemo()
+//        {
 
-        }
-        public static void Show() { }
-        //public void Display() { } //not allowed
-    }
-}
+//        }
+//        public static void Show() { }
+//        //public void Display() { } //not allowed
+//    }
+//}
