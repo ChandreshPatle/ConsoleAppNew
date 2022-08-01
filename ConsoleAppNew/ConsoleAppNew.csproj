@@ -58,8 +58,13 @@
     <Compile Include="Day6\ArrayDemo2.cs" />
     <Compile Include="Day6\ArrayDemo3.cs" />
     <Compile Include="Day6\JaggedArray.cs" />
+    <Compile Include="Day7\ProductMain.cs" />
+    <Compile Include="Day7\Product.cs" />
+    <Compile Include="Day7\StringBuilderDemo.cs" />
+    <Compile Include="Day7\StringDemo1.cs" />
     <Compile Include="MainApp.cs" />
     <Compile Include="MethodCalling.cs" />
+    <Compile Include="ProjectMain.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Student.cs" />
