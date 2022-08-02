@@ -48,14 +48,16 @@ namespace ConsoleAppNew.Day8
             f-->decimal fraction of second(milisecond)
             
             */
+            Console.WriteLine("=========================");
             Console.WriteLine(date.ToString("MM-dd-yy,H:m:s t"));
             Console.WriteLine(date.ToString("dd-MM-yy,H:m:ss tt"));
+            Console.WriteLine(date.ToString("dd-MM-yy,H:m:ss fffffff tt"));
             Console.WriteLine(date.ToString("MMMM,yyyy"));
             Console.WriteLine(date.ToString("dddd,dd-MM-yyyy"));
 
 
 
-
+            Console.WriteLine("=========================");
             //reading date value from console
             Console.WriteLine("Input date value:");
             DateTime mydate;
