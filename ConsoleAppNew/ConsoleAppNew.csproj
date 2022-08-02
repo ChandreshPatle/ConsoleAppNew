@@ -62,6 +62,9 @@
     <Compile Include="Day7\Product.cs" />
     <Compile Include="Day7\StringBuilderDemo.cs" />
     <Compile Include="Day7\StringDemo1.cs" />
+    <Compile Include="Day8\DateTimeDemo.cs" />
+    <Compile Include="Day8\IndexerMain.cs" />
+    <Compile Include="Day8\StringDemo.cs" />
     <Compile Include="MainApp.cs" />
     <Compile Include="MethodCalling.cs" />
     <Compile Include="ProjectMain.cs" />
