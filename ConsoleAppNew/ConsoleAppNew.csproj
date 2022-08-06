@@ -65,6 +65,12 @@
     <Compile Include="Day8\DateTimeDemo.cs" />
     <Compile Include="Day8\IndexerMain.cs" />
     <Compile Include="Day8\StringDemo.cs" />
+    <Compile Include="DelegateEvents\DelegateDemo1.cs" />
+    <Compile Include="DelegateEvents\DelegateDemo2.cs" />
+    <Compile Include="DelegateEvents\DelegateDemo3.cs" />
+    <Compile Include="DelegateEvents\SingletonDemo.cs" />
+    <Compile Include="Inheritance\AbstractDemo.cs" />
+    <Compile Include="Inheritance\InterfaceDemo.cs" />
     <Compile Include="MainApp.cs" />
     <Compile Include="MethodCalling.cs" />
     <Compile Include="ProjectMain.cs" />
