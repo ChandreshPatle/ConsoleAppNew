@@ -68,11 +68,14 @@
     <Compile Include="DelegateEvents\DelegateDemo1.cs" />
     <Compile Include="DelegateEvents\DelegateDemo2.cs" />
     <Compile Include="DelegateEvents\DelegateDemo3.cs" />
+    <Compile Include="DelegateEvents\EventDemo.cs" />
+    <Compile Include="DelegateEvents\NameSpaceDemo.cs" />
     <Compile Include="DelegateEvents\SingletonDemo.cs" />
     <Compile Include="Inheritance\AbstractDemo.cs" />
     <Compile Include="Inheritance\InterfaceDemo.cs" />
     <Compile Include="MainApp.cs" />
     <Compile Include="MethodCalling.cs" />
+    <Compile Include="MultiThreading\ThreadDemo1.cs" />
     <Compile Include="ProjectMain.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -81,5 +84,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
