@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CollectionDemo\ArrayDemo2.cs" />
+    <Compile Include="CollectionDemo\ArrayListDemo.cs" />
+    <Compile Include="CollectionDemo\GenericDemo.cs" />
+    <Compile Include="CollectionDemo\GenericDemo1.cs" />
+    <Compile Include="CollectionDemo\HashTableDemo.cs" />
     <Compile Include="Day4\Day4Main.cs" />
     <Compile Include="Day4\Employee.cs" />
     <Compile Include="Day4\OverloadTest.cs" />
@@ -75,7 +80,12 @@
     <Compile Include="Inheritance\InterfaceDemo.cs" />
     <Compile Include="MainApp.cs" />
     <Compile Include="MethodCalling.cs" />
+    <Compile Include="MultiThreading\ClockDemo.cs" />
+    <Compile Include="MultiThreading\TaskUsingForLoop.cs" />
+    <Compile Include="MultiThreading\TaskUsingParallelForLoop.cs" />
     <Compile Include="MultiThreading\ThreadDemo1.cs" />
+    <Compile Include="MultiThreading\ThreadDemo2.cs" />
+    <Compile Include="MultiThreading\ThreadDemo3.cs" />
     <Compile Include="ProjectMain.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
